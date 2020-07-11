@@ -8,20 +8,20 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/eladleev/">
+  <a href="https://www.linkedin.com/in/eladleev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://medium.com/@eladleev">
+    <a href="https://medium.com/@eladleev" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
   </a>
-    <a href="https://stackoverflow.com/users/3922514/elad-leev">
+    <a href="https://stackoverflow.com/users/3922514/elad-leev" target="_blank">
     <img src="https://img.shields.io/badge/stackoverflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
-    <a href="https://twitter.com/Eladleev">
+    <a href="https://twitter.com/Eladleev" target="_blank">
     <img src="https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />        
   <a href="https://github.com/EladLeev/speaker-bio"><br>&nbsp;
     <img src="https://img.shields.io/badge/Read-More-%238CA1AF.svg?&style=for-the-badge&logoColor=white" />
