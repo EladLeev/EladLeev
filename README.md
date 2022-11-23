@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Data Platform Engineer @ <a href="https://github.com/Riskified">Riskified</a>
+  Staff Platform Engineer @ <a href="https://github.com/NateAI">nate</a>
 </p>
 
 <p align='center'>
