@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Staff Platform Engineer @ <a href="https://github.com/NateAI">nate</a>
+  Senior Data Platform Engineer @ <a href="https://dojo.tech/">Dojo</a>
 </p>
   
 <p align='center'>
