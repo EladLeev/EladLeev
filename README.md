@@ -1,10 +1,6 @@
 <h1 align='center'>
   Hi there 👋 I'm Elad
 </h1>
-
-<p align='center'>
-  Staff Engineer @ <a href="https://dojo.tech/">Dojo</a>
-</p>
   
 <p align='center'>
   
